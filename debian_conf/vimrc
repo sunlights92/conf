@@ -1,0 +1,14 @@
+colorscheme desert
+set hlsearch
+set nowrap
+set showcmd
+set nostartofline
+set tabstop=4
+set expandtab
+set incsearch
+set ruler
+set backspace=indent,eol,start
+set ic
+set tags=sys/tags,./tags,../tags,../../tags,../../tags,../../../tags,../../../../tags,../../../../../tags,../../../../../../tags,../../../../../../../tags
+syntax on
+
